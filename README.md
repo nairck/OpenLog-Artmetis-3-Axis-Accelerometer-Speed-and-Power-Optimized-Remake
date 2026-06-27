@@ -1,4 +1,4 @@
-# OpenLog Artemis — Speed & Power-Optimized for the Onboard OpenLog Artmeis IMU (3-axis only)
+# OpenLog Artemis — Speed & Power-Optimized for the Onboard IMU (3-axis only)
 
 Firmware that turns a SparkFun OpenLog Artemis into a **fast, power-efficient, and
 consistent accelerometer logger** for shock and vibration monitoring — during shipping,
