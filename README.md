@@ -40,8 +40,7 @@ writes — roughly 5 samples per 10 ms. This remake samples smoothly at up to ~5
 
 *Top sample rate climbs from **515 Hz** (stock) to **~3.2 kHz**, or **~5.4 kHz** with CPU
 burst on. The slow samples on the left only occur in continuous mode (and dominated the
-stock firmware) — in event mode the card is written after each window, so logging never
-stalls. Continuous mode still shows some slow SD activity between samples.*
+stock firmware) — in event mode the card is written after each window, so sampling is uniform within a window. Continuous mode still shows some slow SD activity between samples.*
 
 ---
 
